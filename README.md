@@ -1,4 +1,4 @@
-# my-project
+# Bg_system
 
 ## Project setup
 ```
